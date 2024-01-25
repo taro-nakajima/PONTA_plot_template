@@ -33,7 +33,7 @@ set ylabel 'Intensity (counts/sec)' font "Arial,18"
 #set yrange[0:0.19]
 
 #set xtics 0.05
-set mxtics 4
+#set mxtics 4
 
 #set ytics 0.02
 #set mytics 5
